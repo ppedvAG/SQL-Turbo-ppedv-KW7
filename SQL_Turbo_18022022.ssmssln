@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQL_Turbo_18022022", "SQL_Turbo_18022022\SQL_Turbo_18022022.ssmssqlproj", "{044D4674-D196-4347-AA2D-3B0563B84085}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{044D4674-D196-4347-AA2D-3B0563B84085}.Default|Default.ActiveCfg = Default
+		{1772532F-D480-49B1-AE72-78D44D05A4BD}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9079543-EDC0-4935-B9B8-CAA255D49476}
+	EndGlobalSection
+EndGlobal

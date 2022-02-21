@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQL_Turbo_18022022">
+  <Items>
+    <LogicalFolder Name="Verbindungen" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="TRAINER10-NS2:DOM-PPA01\ns2">
+          <Created>2022-02-18T08:42:20.9222181+01:00</Created>
+          <Type>SQL</Type>
+          <Server>TRAINER10-NS2</Server>
+          <UserName />
+          <Authentication>Windows-Authentifizierung</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Abfrage</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Abfragen" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Aggregates.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:TRAINER10-NS2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>TRAINER10-NS2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Aggregates.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CASE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:TRAINER10-NS2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>TRAINER10-NS2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CASE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Datumsfunktionen.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:TRAINER10-NS2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>TRAINER10-NS2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Datumsfunktionen.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DDL.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:TRAINER10-NS2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>TRAINER10-NS2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DDL.sql</FullPath>
+        </FileNode>
+        <FileNode Name="JOINs.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:TRAINER10-NS2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>TRAINER10-NS2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>JOINs.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SELECT_Basics.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:TRAINER10-NS2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>TRAINER10-NS2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SELECT_Basics.sql</FullPath>
+        </FileNode>
+        <FileNode Name="TOP_DISTINCT.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:TRAINER10-NS2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>TRAINER10-NS2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>TOP_DISTINCT.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Variablen.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:TRAINER10-NS2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>TRAINER10-NS2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Variablen.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Wildcards.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:TRAINER10-NS2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>TRAINER10-NS2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Wildcards.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Sonstiges" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
